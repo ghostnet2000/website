@@ -1,14 +1,4 @@
 /*
-    Template Name : PANDA BOOTSTRAP 4 PERSONAL RESUME/PORTFOLIO/CV TEMPLATE
-    Author        : BOSSPERSON
-    Author URL    : http://themeforest.net/user/bossperson
-    Description   : 
-    Tags          :
-Personal,Creative,Clean,Vcard,Cv,Blog,Html,Minimal,Modern,Resume,Responsive,Portfolio,Business,Fashion,Onepage,Onepage,Css3,Photography,Simple,Designer,Freelancer,Bootstrap,One Page,Html5,Jquery,Gallery,Programmer,Blogger,Lifestyle,Blogging,Template
-
-*/
-
-/*
 01 : NAVIGATION
 02 : HERO AREA
 03 : ABOUT SECTION
@@ -24,13 +14,13 @@ Personal,Creative,Clean,Vcard,Cv,Blog,Html,Minimal,Modern,Resume,Responsive,Port
 /*START::CUSTOM CSS*/
 
 ::selection {
-    background: #42D9E4;
+    background: #3bbc46;
     color: #fff;
     /* WebKit/Blink Browsers */
 }
 
 ::-moz-selection {
-    background: #42D9E4;
+    background: #3bbc46;
     color: #fff;
     /* Gecko Browsers */
 }
@@ -123,7 +113,7 @@ html {
 }
 
 .alt-color {
-    color: #42D9E4;
+    color: #3bbc46;
 }
 
 /* Preloader */
@@ -134,7 +124,7 @@ html {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #42D9E4;
+    background-color: #3bbc46;
     /* change if the mask should have another color then white */
     z-index: 999999;
     /* makes sure it stays on top */
@@ -204,7 +194,7 @@ html {
 #mainNav .navbar-brand:active,
 #mainNav .navbar-brand:focus,
 #mainNav .navbar-brand:hover {
-    color: #42D9E4;
+    color: #3bbc46;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -217,7 +207,7 @@ html {
 
 #mainNav .navbar-nav .nav-item .nav-link.active,
 #mainNav .navbar-nav .nav-item .nav-link:hover {
-    color: #42D9E4;
+    color: #3bbc46;
 }
 
 /*END::NAVIGATION CSS*/
@@ -300,7 +290,7 @@ html {
     text-transform: uppercase;
     letter-spacing: 5px;
     word-spacing: 10px;
-    color: #42D9E4;
+    color: #3bbc46;
 }
 
 
@@ -324,14 +314,14 @@ html {
     left: 50%;
     margin-left: -20px;
     width: 40px;
-    border: 1px solid #42D9E4;
+    border: 1px solid #3bbc46;
     height: 70px;
     line-height: 80px;
     border-radius: 30px;
 }
 
 .scroll-bottom i {
-    color: #42D9E4;
+    color: #3bbc46;
     font-size: 30px;
 }
 
@@ -443,7 +433,7 @@ html {
 }
 
 .single-skill .progress .progress-bar {
-    background: #42D9E4;
+    background: #3bbc46;
     position: relative;
     height: 5px;
 }
@@ -496,7 +486,7 @@ html {
 
 .column-left {
     width: 95%;
-    border-right: 2px solid #42D9E4;
+    border-right: 2px solid #3bbc46;
     padding-right: 50px;
     text-align: right;
 }
@@ -504,7 +494,7 @@ html {
 .column-right {
     width: 95%;
     padding-left: 50px;
-    border-left: 2px solid #42D9E4;
+    border-left: 2px solid #3bbc46;
 }
 
 
@@ -514,10 +504,10 @@ html {
 }
 
 #resume .icon {
-    background: #42D9E4;
+    background: #3bbc46;
     color: #fff;
     z-index: 999;
-    border-color: #42D9E4;
+    border-color: #3bbc46;
     border-radius: 50%;
     transform: translateY(-30px);
     position: absolute;
@@ -548,7 +538,7 @@ html {
     width: 6px;
     height: 6px;
     border-radius: 50%;
-    background: #42D9E4;
+    background: #3bbc46;
 }
 
 #resume .column-left .item::after {
@@ -559,7 +549,7 @@ html {
     width: 6px;
     height: 6px;
     border-radius: 50%;
-    background: #42D9E4;
+    background: #3bbc46;
 }
 
 #resume .column-right .icon {
@@ -705,7 +695,7 @@ html {
 }
 
 .owl-controls .owl-dots .owl-dot.active {
-    background: #42D9E4;
+    background: #3bbc46;
 }
 
 /*END::CLIENTS SECTION CSS*/
@@ -779,7 +769,7 @@ html {
     bottom: 0;
     left: 5%;
     text-align: center;
-    color: #42D9E4;
+    color: #3bbc46;
 }
 
 .work-overlay h3 {
@@ -884,7 +874,7 @@ html {
 }
 
 #contact .form-control:focus {
-    border-color: #42D9E4;
+    border-color: #3bbc46;
     box-shadow: none;
 }
 
@@ -931,8 +921,8 @@ html {
 }
 
 #sendMessageButton:hover {
-    background: #42D9E4;
-    border-color: #42D9E4;
+    background: #3bbc46;
+    border-color: #3bbc46;
     color: #fff;
 }
 
@@ -988,7 +978,7 @@ html {
 
 .social-links li a:hover i {
     background: #fff;
-    color: #42D9E4;
+    color: #3bbc46;
     border-color: #fff;
 }
 
